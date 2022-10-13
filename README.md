@@ -1,0 +1,2 @@
+# sales_pridiction
+pycharm
